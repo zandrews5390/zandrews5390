@@ -1,6 +1,9 @@
 # Hi there 👋
 
-<img src="file:///Users/zach/Desktop/git598/m2/zandrews5390/images/81405029_10221685993682162_5528366012308652032_n.jpg" alt="My PArtner & I with our nieces">
+<body>
+    <h1>Example of Embedding an Image</h1>
+    <img src="file:///Users/zach/Desktop/git598/m2/zandrews5390/images/81405029_10221685993682162_5528366012308652032_n.jpg" alt="My fiances & I with our nieces in Neskowin, Oregon" width="300" height="200">
+</body>
 
 
 *Creative. Empathetic. Detail-oriented.*
@@ -32,3 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Live Music Junkie and have seen over 200 live music acts 
 -->
+
+
+[def]: ile:///Users/zach/Desktop/git598/m2/zandrews5390/images/81405029_10221685993682162_5528366012308652032_n.jp
