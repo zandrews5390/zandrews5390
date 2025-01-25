@@ -2,7 +2,7 @@
 
 <body>
     <h1>Example of Embedding an Image</h1>
-    <img src="file:///Users/zach/Desktop/git598/m2/zandrews5390/images/81405029_10221685993682162_5528366012308652032_n.jpg" alt="My fiances & I with our nieces in Neskowin, Oregon" width="300" height="200">
+    <img src="file:///Users/zach/Desktop/git598/m2/zandrews5390/images/81405029_10221685993682162_5528366012308652032_n.jpg" width="300" height="200">
 </body>
 
 
