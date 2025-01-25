@@ -1,21 +1,7 @@
 # Hi there 👋
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Responsive Image</title>
-    <style>
-        img {
-            max-width: 100%; /* Scale down if larger than its container */
-            height: auto;    /* Maintain aspect ratio */
-        }
-    </style>
-</head>
-<body>
-    <img src="https://www.facebook.com/
-https://scontent-sjc3-1.xx.fbcdn.net/v/t1.6435-9/81405029_10221685993682162_5528366012308652032_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tJc1li9RiNMQ7kNvgH3jL8p&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AW-yP9D_l6J8dyCMkeWKMaI&oh=00_AYCVl6lqJXFFWmj4g6dec7awZsW2_9dWsRiY80_UcgNUVw&oe=67BBDC55">
-</body>
-</html>
+<p align="center">
+  <img src="youfile:///Users/zach/Desktop/git598/m2/zandrews5390/images/81405029_10221685993682162_5528366012308652032_n.jpg" width="350" title="hover text">
+</p>
 
 
 *Creative. Empathetic. Detail-oriented.*
