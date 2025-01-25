@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there 👋
+
+*Creative. Empathetic. Detail-oriented.*
+
+These are just some of the keywords that come to mind when
+describing myself to others. 
+
+Growing up next to Lake Tahoe, the Sierra Nevada mountains garnered my
+inherent thirst for adventure, culture, people, and the
+next life changing experience beyond the horizon.
+
+That thirst in turn cultivates my creative ambitions asa designer, inspring not only my projects but also my relationships with clients to innovate engaging design language rooted in messaging that tells a compelling
+story. 
+
+Like the Sierras, great design draws you in, begging to be explored.
+
 
 <!--
 **zandrews5390/zandrews5390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
