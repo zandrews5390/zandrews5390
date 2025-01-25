@@ -1,5 +1,5 @@
 # Hi there 👋
-![Alt text](f81405029_10221685993682162_5528366012308652032_n.jpg)
+![Alt text](https://github.com/zandrews5390/zandrews5390/blob/366dcfd0493f562ee35bc94448f1be097ec3350c/81405029_10221685993682162_5528366012308652032_n.jpg)
 
 
 *Creative. Empathetic. Detail-oriented.*
