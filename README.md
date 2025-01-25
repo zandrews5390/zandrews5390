@@ -1,7 +1,5 @@
 # Hi there 👋
-<p align="center">
-  <img src="https://www.facebook.com/photo.php?fbid=10221685993642161&set=t.1324410074&type=3" width="350" title="Me, my partner and our nieces in Neskowin, OR">
-</p>
+![alt text](https://www.facebook.com/photo.php?fbid=10221685993642161&set=t.1324410074&type=3)
 
 
 *Creative. Empathetic. Detail-oriented.*
