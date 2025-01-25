@@ -9,7 +9,7 @@ Growing up next to Lake Tahoe, the Sierra Nevada mountains garnered my
 inherent thirst for adventure, culture, people, and the
 next life changing experience beyond the horizon.
 
-That thirst in turn cultivates my creative ambitions asa designer, inspring not only my projects but also my relationships with clients to innovate engaging design language rooted in messaging that tells a compelling
+That thirst in turn cultivates my creative ambitions asa designer, inspiring not only my projects but also my relationships with clients to innovate engaging design language rooted in messaging that tells a compelling
 story. 
 
 Like the Sierras, great design draws you in, begging to be explored.
