@@ -16,6 +16,9 @@ story.
 
 Like the Sierras, great design draws you in, begging to be explored.
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+
 
 <!--
 **zandrews5390/zandrews5390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
