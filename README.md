@@ -16,7 +16,7 @@ story.
 
 Like the Sierras, great design draws you in, begging to be explored.
 
-[![Spotify](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz?si=efb084e387194c94)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 
 
