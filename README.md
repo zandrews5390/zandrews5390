@@ -1,5 +1,5 @@
 # Hi there 👋
-![Alt text](file:///Users/zach/Desktop/git598/m2/zandrews5390/81405029_10221685993682162_5528366012308652032_n.jpg)
+![Alt text](f81405029_10221685993682162_5528366012308652032_n.jpg)
 
 
 *Creative. Empathetic. Detail-oriented.*
