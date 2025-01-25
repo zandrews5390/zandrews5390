@@ -1,9 +1,21 @@
 # Hi there 👋
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Image</title>
+    <style>
+        img {
+            max-width: 100%; /* Scale down if larger than its container */
+            height: auto;    /* Maintain aspect ratio */
+        }
+    </style>
+</head>
 <body>
-    <h1>Example of Embedding an Image</h1>
-    <img src="file:///Users/zach/Desktop/git598/m2/zandrews5390/images/81405029_10221685993682162_5528366012308652032_n.jpg" alt="Image with original dimensions">
+    <h1>Responsive Image</h1>
+    <img src="file:///Users/zach/Desktop/git598/m2/zandrews5390/images/81405029_10221685993682162_5528366012308652032_n.jpg" alt="Responsive image">
 </body>
+</html>
 
 
 *Creative. Empathetic. Detail-oriented.*
