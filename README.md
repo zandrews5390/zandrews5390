@@ -1,5 +1,10 @@
 # Hi there 👋
 
+<body>
+    <h1>Example of Embedding an Image</h1>
+    <img src="file:///Users/zach/Desktop/81405029_10221685993682162_5528366012308652032_n.jpg" alt="Description of the image" width="300" height="200">
+</body>
+
 *Creative. Empathetic. Detail-oriented.*
 
 These are just some of the keywords that come to mind when
